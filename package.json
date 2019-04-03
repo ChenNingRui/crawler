@@ -1,0 +1,27 @@
+{
+  "name": "nc222cv-examination-1",
+  "version": "1.0.0",
+  "description": "assignment1 server-based",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1dv523/nc222cv-examination-1.git"
+  },
+  "author": "Ningrui Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1dv523/nc222cv-examination-1/issues"
+  },
+  "homepage": "https://github.com/1dv523/nc222cv-examination-1#readme",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "promise": "^8.0.1",
+    "request": "^2.83.0",
+    "superagent": "^3.8.1",
+    "url": "^0.11.0"
+  }
+}
